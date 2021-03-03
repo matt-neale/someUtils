@@ -6,3 +6,8 @@ function divide(num1, num2) {
   sum = num1 / num2;
   return sum;
 }
+
+function power(num1, num2) {
+  sum = num1 ** num2;
+  return sum;
+}
