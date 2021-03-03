@@ -16,3 +16,9 @@ function subtract(num1, num2) {
   sum = num1 - num2;
   return sum;
 }
+
+// Jason's add-on
+function add(num1,num2) {
+    sum = num1 + num2;
+    return sum;
+}
